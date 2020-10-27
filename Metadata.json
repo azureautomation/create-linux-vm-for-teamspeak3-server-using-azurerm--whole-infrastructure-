@@ -1,7 +1,7 @@
 {
     "Author": "j0rt3g4",
     "ContentSize": 25060,
-    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/create-linux-vm-for-teamspeak3-server-using-azurerm-(whole-infrastructure)/master/Create-Vm5Ts3.ps1",
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/create-linux-vm-for-teamspeak3-server-using-azurerm--whole-infrastructure-/master/Create-Vm5Ts3.ps1",
     "DownloadCount": 1292,
     "Id": "Create-Linux-VM-for-62886707",
     "IsFederated": false,
@@ -15,6 +15,6 @@
     "Summary": "This script is able to create the whole infrastructure required to create a VM in Windows Azure using AzureRM and an SSH module called Posh-SSH. Create all the ingredients to have a secure hosting of TS3 service, for business, personal and specialized hosting.",
     "Title": "Create Linux VM for TeamSpeak3 Server using AzureRM (Whole Infrastructure)",
     "UpdatedDate": "2019-3-19T00:00:00",
-    "Url": "https://github.com/azureautomation/create-linux-vm-for-teamspeak3-server-using-azurerm-(whole-infrastructure)",
+    "Url": "https://github.com/azureautomation/create-linux-vm-for-teamspeak3-server-using-azurerm--whole-infrastructure-",
     "UserTags": "Windows, linux, Windows Azure Virtual Machines"
 }
